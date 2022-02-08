@@ -8,7 +8,7 @@ public class Try3 {
         } catch (ArrayIndexOutOfBoundsException excepcion) {
             System.out.println(" Error de índice en un array");
         } catch (ArithmeticException excepcion) {
-            System.out.println(" Error de índice en un array");
+            System.out.println(" Error de division por 0");
         }
     }
 }

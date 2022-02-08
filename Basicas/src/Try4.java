@@ -7,7 +7,7 @@ public class Try4 {
         } catch (ArrayIndexOutOfBoundsException excepcion) {
             System.out.println(" Error de índice en un array");
         } catch (ArithmeticException excepcion) {
-            System.out.println(" Error de índice en un array");
+            System.out.println(" Error por division entre 0");
         } catch (Exception excepcion) {
             System.out.println("Se ha generado un error que no es deíndices, ni Aritmético");
             System.out.println("El objeto error es de tipo " + excepcion);
