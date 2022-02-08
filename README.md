@@ -6,15 +6,15 @@
 Ejercicios del tema de Excepciones de clase.
 
 #### Tareas completadas:
-- Practicas basicas
+- Practica basica
 - Ejemplos profesor
   - DivisionPorCero 
   - ArrayFueraRango
   - ExceptionFueraRangoArray
-
+  - CapturaExcepciones
 
 #### Tareas en proceso:
-- Nada
+
 
 ---
 
