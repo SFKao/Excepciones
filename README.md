@@ -11,10 +11,10 @@ Ejercicios del tema de Excepciones de clase.
   - DivisionPorCero 
   - ArrayFueraRango
   - ExceptionFueraRangoArray
-
+  - CapturaExcepciones
 
 #### Tareas en proceso:
-- Nada
+
 
 ---
 
