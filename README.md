@@ -1,6 +1,6 @@
-#Excepciones
-###Autor: Oscar Melero Camacho
+# Excepciones
+### Autor: Oscar Melero Camacho
 
 ---
 
-Aqui aprendere a manejar las expeccioones y errores de java.
+Aqui aprendere a manejar las expecciones y errores de java.
