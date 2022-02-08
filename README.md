@@ -12,6 +12,7 @@ Ejercicios del tema de Excepciones de clase.
   - ArrayFueraRango
   - ExceptionFueraRangoArray
   - CapturaExcepciones
+- Ejercicios del tema
 
 #### Tareas en proceso:
 
