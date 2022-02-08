@@ -3,12 +3,20 @@
 
 ---
 
-Aqui aprendere a manejar las expecciones y errores de java.
+Ejercicios del tema de Excepciones de clase.
 
 #### Tareas completadas:
 - Practicas basicas
 - Ejemplos profesor
+  - DivisionPorCero 
+  - ArrayFueraRango
+  - ExceptionFueraRangoArray
 
 
 #### Tareas en proceso:
-- ArrayFueraRango
+- Nada
+
+---
+
+### Logo del instituto:
+![](https://www.iesvirgendelcarmen.com/wp-content/uploads/cropped-cropped-cropped-escudo2Texto.png)
