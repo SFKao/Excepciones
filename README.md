@@ -13,11 +13,10 @@ Ejercicios del tema de Excepciones de clase.
   - ExceptionFueraRangoArray
   - CapturaExcepciones
 - Ejercicios del tema
+- Practica ExcepcionError
 
 #### Tareas en proceso:
 
 
 ---
 
-### Logo del instituto:
-![](https://www.iesvirgendelcarmen.com/wp-content/uploads/cropped-cropped-cropped-escudo2Texto.png)
