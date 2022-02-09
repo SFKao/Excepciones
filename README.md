@@ -13,6 +13,7 @@ Ejercicios del tema de Excepciones de clase.
   - ExceptionFueraRangoArray
   - CapturaExcepciones
 - Ejercicios del tema
+- Practica ExcepcionError
 
 #### Tareas en proceso:
 
