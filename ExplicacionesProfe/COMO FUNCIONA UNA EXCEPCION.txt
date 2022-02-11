@@ -1,0 +1,12 @@
+Para hacerlo funcionar
+
+una excepcion se lanza con throw.
+un metodo puede tener throws excepcion para indicar que este la lanzara si pasa algo
+para resolver, el metodo que lo llama debe tener tambien throws o usar try catch
+
+forma:
+try{
+cosas que puede saltar una excepcion
+} catch (TipoExcepcion nombre){
+Cosas que hacer
+}

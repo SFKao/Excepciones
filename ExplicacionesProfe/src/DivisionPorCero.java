@@ -1,15 +1,15 @@
 public class DivisionPorCero {
     public static void main(String[] args) {
-        System.out.println(divisionEnteroSinExcepciones(2,0));
+        System.out.println(divisionEnteroSinExcepciones(2,0));//lo que soliamos hacer
         System.out.println(divisionEnteroSinExcepciones(3,3));
 
         try {
-            System.out.println(divisionEnteroConExcepciones(3,0));
+            System.out.println(divisionEnteroConExcepciones(3,0)); //ahora con excepciones
         } catch (Exception e) {
             System.out.println(e);
         }
 
-        divisionEnterosConExcepcionesSinThrow(2,0);
+        divisionEnterosConExcepcionesSinThrow(2,0);//esto hace el try internamente
         divisionEnterosConExcepcionesSinThrow(2,2);
     }
 
